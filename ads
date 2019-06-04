@@ -11,3 +11,7 @@ kiryuu.co##[href="http://www.indobet77.vip/"] > .lazyloaded.wp-image-94740.size-
 
 ! 6/1/2019 https://komiku.co
 komiku.co###sharenya
+
+! 6/4/2019 https://komiku.co
+komiku.co##.bvr-widget--1003587.bvr-widget
+komiku.co##.bvr-widget--1003588.bvr-widget
