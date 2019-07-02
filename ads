@@ -15,3 +15,18 @@ komiku.co###sharenya
 ! 6/4/2019 https://komiku.co
 komiku.co##.bvr-widget--1003587.bvr-widget
 komiku.co##.bvr-widget--1003588.bvr-widget
+komiku.co##.jancuk
+||otakuindo.co/wp-content/uploads/close.gif$image
+
+! 6/13/2019 https://indoxxi.studio
+indoxxi.studio##._4kwrl8f
+indoxxi.studio###pc-player-bar-close
+
+! 7/2/2019 https://komiku.co
+komiku.co##.ate2
+
+! 7/2/2019 https://kiryuu.co
+||www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fkiryuuco&tabs&width=340&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=183249692255870$subdocument
+||st.chatango.com/h5/gz/r0327191219/id.html$subdocument
+kiryuu.co##div.side:nth-of-type(3)
+kiryuu.co##div.side.widget_text:nth-of-type(5) > h4
