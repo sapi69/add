@@ -30,3 +30,10 @@ komiku.co##.ate2
 ||st.chatango.com/h5/gz/r0327191219/id.html$subdocument
 kiryuu.co##div.side:nth-of-type(3)
 kiryuu.co##div.side.widget_text:nth-of-type(5) > h4
+
+! 7/3/2019 https://kiryuu.co
+kiryuu.co##.mrgn > .kln
+
+! 7/6/2019 https://kiryuu.co
+kiryuu.co##body > center
+kiryuu.co##.kln.mlb.blox
