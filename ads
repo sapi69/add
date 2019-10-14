@@ -37,3 +37,6 @@ kiryuu.co##.mrgn > .kln
 ! 7/6/2019 https://kiryuu.co
 kiryuu.co##body > center
 kiryuu.co##.kln.mlb.blox
+
+! 10/14/2019 https://komiku.co
+komiku.co###floatads2
